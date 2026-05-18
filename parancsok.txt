@@ -1,0 +1,16 @@
+npx create-react-app .
+
+npm i react-router-dom
+npm i bootstrap
+npm i bootstrap-icons
+npm i axios
+
+import bootstrap from 'bootstrap/dist/css/bootstrap.min.css';
+import bootstrapIcons from 'bootstrap-icons/font/bootstrap-icons.css';
+import axios from 'axios';
+
+https://www.w3schools.com/react/
+https://www.w3schools.com/js/js_api_fetch.asp
+
+https://github.com/MakkaiK
+https://github.com/Adeniran24/MindenkiVG
