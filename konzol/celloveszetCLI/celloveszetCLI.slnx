@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="celloveszetCLI/celloveszetCLI.csproj" />
+  <Project Path="celloveszetWPF/celloveszetWPF.csproj" Id="afa3add5-3654-4b69-b217-9e227573d934" />
+</Solution>
